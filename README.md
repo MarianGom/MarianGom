@@ -25,7 +25,7 @@ Me interesa especialmente el desarrollo **backend** con Node.js y la integració
 
 ### 💼 Proyectos destacados
 
-*(Voy a ir subiendo mis repositorios pronto... stay tuned 🚧)*
+*(Voy a ir subiendo mis repositorios pronto...🚧)*
 
 ---
 
