@@ -2,7 +2,6 @@
 
 💻 Estudiante de Licenciatura en Sistemas de Información  
 🛠️ Desarrolladora Web Full Stack en formación  
-🚀 Apasionada por el backend, los datos y la resolución de problemas  
 
 ---
 
@@ -10,7 +9,6 @@
 
 Soy de Santiago del Estero, Argentina 🇦🇷  
 Trabajo actualmente en un Centro de Operaciones de Red (NOC) y me estoy formando como desarrolladora.  
-Me interesa especialmente el desarrollo **backend** con Node.js y la integración con bases de datos.  
 
 ---
 
@@ -25,7 +23,7 @@ Me interesa especialmente el desarrollo **backend** con Node.js y la integració
 
 ### 💼 Proyectos destacados
 
-*(Voy a ir subiendo mis repositorios pronto...🚧)*
+*(Subiré mis repositorios pronto...🚧)*
 
 ---
 
@@ -39,8 +37,5 @@ Me interesa especialmente el desarrollo **backend** con Node.js y la integració
 
 ### ✨ ¿Sabías?
 
-Me encanta aprender cosas nuevas, soy detallista, trabajo bien en equipo y busco crecer profesionalmente en el mundo IT 💻
+Me encanta aprender cosas nuevas y busco crecer profesionalmente en el mundo IT 💻
 
----
-
-> “El código es poesía, y también práctica constante.” ✍️
