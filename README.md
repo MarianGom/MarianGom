@@ -32,7 +32,7 @@ Me interesa especialmente el desarrollo **backend** con Node.js y la integració
 ### 📫 Contacto
 
 📧 marianagomez427@gmail.com  
-💼 [LinkedIn](www.linkedin.com/in/marianagom)  
+💼 www.linkedin.com/in/marianagom
 🌐 [Portfolio personal próximamente]*
 
 ---
