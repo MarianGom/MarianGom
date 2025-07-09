@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Mariana Alejandra Gómez
 
-<!--
-**MarianGom/MarianGom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Licenciatura en Sistemas de Información  
+🛠️ Desarrolladora Web Full Stack en formación  
+🚀 Apasionada por el backend, los datos y la resolución de problemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 ¿Quién soy?
+
+Soy de Santiago del Estero, Argentina 🇦🇷  
+Trabajo actualmente en un Centro de Operaciones de Red (NOC) y me estoy formando como desarrolladora.  
+Me interesa especialmente el desarrollo **backend** con Node.js y la integración con bases de datos.  
+
+---
+
+### 🧠 Tecnologías y herramientas
+
+- 🟨 JavaScript | 🔵 Node.js | 🟦 MySQL | ⚛️ React  
+- 🐧 Linux | 🪟 Windows  
+- 📊 Power BI, SQL  
+- 🐙 Git | 🧠 Jira | 🖥️ Zabbix 
+
+---
+
+### 💼 Proyectos destacados
+
+*(Voy a ir subiendo mis repositorios pronto... stay tuned 🚧)*
+
+---
+
+### 📫 Contacto
+
+📧 marianagomez427@gmail.com  
+💼 [LinkedIn](www.linkedin.com/in/marianagom)  
+🌐 [Portfolio personal próximamente]*
+
+---
+
+### ✨ ¿Sabías?
+
+Me encanta aprender cosas nuevas, soy detallista, trabajo bien en equipo y busco crecer profesionalmente en el mundo IT 💻
+
+---
+
+> “El código es poesía, y también práctica constante.” ✍️
